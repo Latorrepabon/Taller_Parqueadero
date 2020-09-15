@@ -1,19 +1,19 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">Taller-Polimorfismo</h3>
+  <h3 align="center">Taller-Principios SOLID</h3>
 
   <p align="center">
-    Proyecto de clase para ver en acción el polimorfismo
+    Proyecto de clase para ver en acción-Principios SOLID
     <br />
-    <a href="https://github.com/Latorrepabon/Taller-Polimorfismo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Latorrepabon/Taller_Parqueadero"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Latorrepabon/Taller-Polimorfismo">View Demo</a>
+    <a href="https://github.com/Latorrepabon/Taller_Parqueadero">View Demo</a>
     ·
-    <a href="https://github.com/Latorrepabon/Taller-Polimorfismo/issues">Report Bug</a>
+    <a href="https://github.com/Latorrepabon/Taller_Parqueadero/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Latorrepabon/Taller-Polimorfismo/issues">Request Feature</a>
+    <a href="https://github.com/Latorrepabon/Taller_Parqueadero/issues">Request Feature</a>
   </p>
 </p>
 
